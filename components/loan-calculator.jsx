@@ -952,7 +952,7 @@ export default function LoanCalculator() {
 						}}
 					>
 						🎉 Loan fully paid off by <strong>Month {paidOffMonth}</strong> —
-						that's{' '}
+						that{' '}
 						<strong>{data.years * 12 - paidOffMonth} months early</strong>!
 					</div>
 				)}
